@@ -1,3 +1,3 @@
 # Data-Structs
-<h1> Hello </h1>
-<p> Potato </p>
+<h1> Commit </h1>
+<p> Priya Tailor </p>
